@@ -1,0 +1,1 @@
+console.log('Sistema de busca de vagas agrícolas carregado');
